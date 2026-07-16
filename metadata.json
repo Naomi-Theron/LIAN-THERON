@@ -1,6 +1,6 @@
 {
-  "name": "RIDZ-CODER 3D Portfolio",
-  "description": "A highly interactive 3D portfolio and virtual workspace for developer Naomi Theron (RIDZ-CODER), featuring 3D physics effects, geometric visualizers, interactive coding environments, and a server-side Gemini-powered AI companion.",
+  "name": "Lian Theron 3D Portfolio",
+  "description": "A highly interactive 3D portfolio and virtual workspace for developer Lian Theron, featuring 3D physics effects, geometric visualizers, interactive coding environments, and a server-side Gemini-powered AI companion.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
